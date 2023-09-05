@@ -6,6 +6,10 @@ Welcome to the Metad Analytics Cloud GitHub repository!
 
 Metad Analytics Cloud is a powerful cloud-based analytics platform that empowers organizations to extract valuable insights from their data. With advanced analytics capabilities, interactive visualizations, and AI-driven insights, Metad Analytics Cloud enables data-driven decision-making and helps organizations uncover hidden patterns and trends in their data.
 
+[Metad official website](https://mtda.cloud/)
+
+[Metad official homepage on bilibili](https://space.bilibili.com/3493144465246852)
+
 ## Key Features
 
 - **Multi-Dimensional Analytics**: Perform multi-dimensional data analysis and modeling, allowing users to explore data from various dimensions and hierarchies.
@@ -60,3 +64,26 @@ Metad Analytics Cloud core libraries is licensed under the [MIT License](LICENSE
 ## 许可证
 
 元数分析云核心代码库采用 [MIT 许可证](LICENSE) 授权。
+
+## Examples
+
+* Sales overview [open in new tab](https://app.mtda.cloud/public/story/892690e5-66ab-4649-9bf5-c1a9c432c01b)
+![Sales overview](./img/adv-sales-overview.png)
+
+* Pareto analysis [open in new tab](https://app.mtda.cloud/public/story/892690e5-66ab-4649-9bf5-c1a9c432c01b?pageKey=bsZ0sjxnxI)
+![](./img/product-pareto-analysis.png)
+
+* Product profit analysis [open in new tab](https://app.mtda.cloud/public/story/892690e5-66ab-4649-9bf5-c1a9c432c01b?pageKey=6S4oEUnVO3)
+![](./img/profit-margin-analysis.jpg)
+
+* Reseller analysis [open in new tab](https://app.mtda.cloud/public/story/a58112aa-fc9c-4b5b-a04e-4ea9b57ebba9?pageKey=nrEZxh1aqp)
+![](./img/reseller-profit-analysis.png)
+
+* Bigview dashboard [open in new tab](https://app.mtda.cloud/public/story/9c462bea-89f6-44b8-a35e-34b21cd15a36)
+![](./img/bigview-supermart-sales.png)
+
+* Indicator application [open in new tab](https://www.mtda.cloud/blog/2023/07/24/sample-adv-7-indicator-app)
+![](./img/indicator-application.png)
+
+* Indicator mobile app [open in new tab](https://www.mtda.cloud/blog/2023/07/24/sample-adv-7-indicator-app)
+![](./img/indicator-app-mobile.jpg)
