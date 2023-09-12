@@ -1,14 +1,16 @@
-[English](#metad-analytics-cloud) | [中文](#元数分析云)
+English | [中文](#元数分析云)
 
 # Metad Analytics Cloud
 
-Welcome to the Metad Analytics Cloud GitHub repository!
+Welcome to the Metad Analytics Cloud GitHub page!
 
 Metad Analytics Cloud is a powerful cloud-based analytics platform that empowers organizations to extract valuable insights from their data. With advanced analytics capabilities, interactive visualizations, and AI-driven insights, Metad Analytics Cloud enables data-driven decision-making and helps organizations uncover hidden patterns and trends in their data.
 
-[Metad official website](https://mtda.cloud/)
+[Metad Product Repository](/meta-d/ocap)
 
-[Metad official homepage on bilibili](https://space.bilibili.com/3493144465246852)
+[Metad Official Website](https://mtda.cloud/en/)
+
+[Metad Official Homepage on bilibili](https://space.bilibili.com/3493144465246852)
 
 ## Key Features
 
@@ -35,7 +37,7 @@ Metad Analytics Cloud core libraries is licensed under the [MIT License](LICENSE
 ---
 
 
-[English](#metad-analytics-cloud) | [中文](#元数分析云)
+[English](#metad-analytics-cloud) | 中文
 
 # 元数分析云
 
@@ -66,6 +68,9 @@ Metad Analytics Cloud core libraries is licensed under the [MIT License](LICENSE
 元数分析云核心代码库采用 [MIT 许可证](LICENSE) 授权。
 
 ## Examples
+
+* Story Workspace
+![Story Workspace](./img/story-workspace.png)
 
 * Sales overview [open in new tab](https://app.mtda.cloud/public/story/892690e5-66ab-4649-9bf5-c1a9c432c01b)
 ![Sales overview](./img/adv-sales-overview.png)
