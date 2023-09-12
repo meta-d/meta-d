@@ -6,7 +6,7 @@ Welcome to the Metad Analytics Cloud GitHub page!
 
 Metad Analytics Cloud is a powerful cloud-based analytics platform that empowers organizations to extract valuable insights from their data. With advanced analytics capabilities, interactive visualizations, and AI-driven insights, Metad Analytics Cloud enables data-driven decision-making and helps organizations uncover hidden patterns and trends in their data.
 
-[Metad Product Repository](/meta-d/ocap)
+[Metad Product Repository](https://github.com/meta-d/ocap)
 
 [Metad Official Website](https://mtda.cloud/en/)
 
