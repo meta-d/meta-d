@@ -30,12 +30,7 @@ To get started with Metad Analytics Cloud, please refer to the [documentation](h
 
 We welcome contributions from the community! If you have any ideas, bug reports, or feature requests, please submit them via GitHub issues. Pull requests are also encouraged for any enhancements or fixes.
 
-## License
-
-Metad Analytics Cloud core libraries is licensed under the [MIT License](LICENSE).
-
 ---
-
 
 [English](#metad-analytics-cloud) | 中文
 
@@ -63,14 +58,10 @@ Metad Analytics Cloud core libraries is licensed under the [MIT License](LICENSE
 
 我们欢迎社区的贡献！如果您有任何想法、错误报告或功能请求，请通过 GitHub issues 提交。对于任何改进或修复，我们也鼓励您提交 Pull Request。
 
-## 许可证
-
-元数分析云核心代码库采用 [MIT 许可证](LICENSE) 授权。
-
 ## Examples
 
 * Story Workspace
-![Story Workspace](./img/story-workspace.png)
+![Story Workspace](./img/en/story-workspace.png)
 
 * Sales overview [open in new tab](https://app.mtda.cloud/public/story/892690e5-66ab-4649-9bf5-c1a9c432c01b)
 ![Sales overview](./img/adv-sales-overview.png)
@@ -88,7 +79,7 @@ Metad Analytics Cloud core libraries is licensed under the [MIT License](LICENSE
 ![](./img/bigview-supermart-sales.png)
 
 * Indicator application [open in new tab](https://www.mtda.cloud/blog/2023/07/24/sample-adv-7-indicator-app)
-![](./img/indicator-application.png)
+![](./img/en/indicator-application.png)
 
 * Indicator mobile app [open in new tab](https://www.mtda.cloud/blog/2023/07/24/sample-adv-7-indicator-app)
 ![](./img/indicator-app-mobile.jpg)
