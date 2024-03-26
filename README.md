@@ -1,16 +1,19 @@
 English | [中文](#元数分析云)
 
-# Metad Analytics Cloud
+Welcome to the Metad organization GitHub page!
 
-Welcome to the Metad Analytics Cloud GitHub page!
+The two main projects we are currently working on are:
+
+* [**Metad Analytics Cloud**](#metad-analytics-cloud)
+* [**SAP NGen**](https://github.com/meta-d/sap-fiori-templates/wiki/.Intro)
+
+# Metad Analytics Cloud
 
 Metad Analytics Cloud is a powerful cloud-based analytics platform that empowers organizations to extract valuable insights from their data. With advanced analytics capabilities, interactive visualizations, and AI-driven insights, Metad Analytics Cloud enables data-driven decision-making and helps organizations uncover hidden patterns and trends in their data.
 
-[Metad Product Repository](https://github.com/meta-d/ocap)
-
-[Metad Official Website](https://mtda.cloud/en/)
-
-[Metad Official Homepage on bilibili](https://space.bilibili.com/3493144465246852)
+- [Metad Product Repository](https://github.com/meta-d/ocap)
+- [Metad Official Website](https://mtda.cloud/en/)
+- [Metad Official Homepage on bilibili](https://space.bilibili.com/3493144465246852)
 
 ## Key Features
 
@@ -26,17 +29,17 @@ Metad Analytics Cloud is a powerful cloud-based analytics platform that empowers
 
 To get started with Metad Analytics Cloud, please refer to the [documentation](https://mtda.cloud/en/docs/) for installation instructions, user guides, and API documentation. You can also explore the provided examples and sample code in the repository.
 
-## Contributing
-
-We welcome contributions from the community! If you have any ideas, bug reports, or feature requests, please submit them via GitHub issues. Pull requests are also encouraged for any enhancements or fixes.
-
 ---
 
 [English](#metad-analytics-cloud) | 中文
 
-# 元数分析云
+欢迎来到元数组织的 GitHub 代码库！
 
-欢迎来到元数分析云的 GitHub 代码库！
+我们目前正在开发的主要有两个项目：
+- [元数分析云](#元数分析云)
+- [SAP NGen](https://github.com/meta-d/sap-fiori-templates/wiki/zh..Intro)
+
+# 元数分析云
 
 元数分析云是一个功能强大的基于云的分析平台，赋予组织从数据中提取有价值的洞察力。通过先进的分析能力、交互式可视化和基于人工智能的洞察，元数分析云支持数据驱动的决策，并帮助组织发现数据中隐藏的模式和趋势。
 
@@ -58,28 +61,28 @@ We welcome contributions from the community! If you have any ideas, bug reports,
 
 我们欢迎社区的贡献！如果您有任何想法、错误报告或功能请求，请通过 GitHub issues 提交。对于任何改进或修复，我们也鼓励您提交 Pull Request。
 
-## Examples
+---
 
+# Screenshots
+
+* Indicator Application & AI Copilot
+  ![Indicator Application Preview](./img/v2.0/indicator-app-ai-copilot.png)
 * Story Workspace
-![Story Workspace](./img/en/story-workspace.png)
+  ![Story Workspace](./img/v2.0/story-workspace.png)
+* Story Designer
+  ![Story Workspace](./img/v2.0/story-designer-toolbar.png)
 
-* Sales overview [open in new tab](https://app.mtda.cloud/public/story/892690e5-66ab-4649-9bf5-c1a9c432c01b)
-![Sales overview](./img/adv-sales-overview.png)
-
-* Pareto analysis [open in new tab](https://app.mtda.cloud/public/story/892690e5-66ab-4649-9bf5-c1a9c432c01b?pageKey=bsZ0sjxnxI)
-![](./img/product-pareto-analysis.png)
-
-* Product profit analysis [open in new tab](https://app.mtda.cloud/public/story/892690e5-66ab-4649-9bf5-c1a9c432c01b?pageKey=6S4oEUnVO3)
-![](./img/profit-margin-analysis.jpg)
-
-* Reseller analysis [open in new tab](https://app.mtda.cloud/public/story/a58112aa-fc9c-4b5b-a04e-4ea9b57ebba9?pageKey=nrEZxh1aqp)
-![](./img/reseller-profit-analysis.png)
+* Story Viewer [Product profit analysis](https://app.mtda.cloud/public/story/892690e5-66ab-4649-9bf5-c1a9c432c01b?pageKey=6S4oEUnVO3)
+  ![Story Viewer](./img/v2.0/story-viewer.png)
 
 * Bigview dashboard [open in new tab](https://app.mtda.cloud/public/story/9c462bea-89f6-44b8-a35e-34b21cd15a36)
-![](./img/bigview-supermart-sales.png)
+  ![](./img/bigview-supermart-sales.png)
 
-* Indicator application [open in new tab](https://www.mtda.cloud/blog/2023/07/24/sample-adv-7-indicator-app)
-![](./img/en/indicator-application.png)
+* Semantic Model Designer
+  ![Semantic Model Designer](./img/v2.0/semantic-model-designer.png)
+
+* Insight Analysis & AI Copilot
+  ![Insight Analysis](./img/v2.0/ai-data-insight.png)
 
 * Indicator mobile app [open in new tab](https://www.mtda.cloud/blog/2023/07/24/sample-adv-7-indicator-app)
-![](./img/indicator-app-mobile.jpg)
+  ![](./img/indicator-app-mobile.jpg)
