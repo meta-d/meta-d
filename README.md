@@ -17,6 +17,8 @@ Metad Analytics Cloud is a powerful cloud-based analytics platform that empowers
 
 ## Key Features
 
+- **AI Copilot**: Leverage AI-driven insights and recommendations to enhance decision-making processes and identify actionable opportunities.
+  ![Copilot architecture](./img/v2.3/copilot-architecture.png)
 - **Multi-Dimensional Analytics**: Perform multi-dimensional data analysis and modeling, allowing users to explore data from various dimensions and hierarchies.
 - **Interactive Data Exploration**: Leverage the Query Lab to experiment with data, perform ad-hoc queries, and discover new insights in an interactive environment.
 - **AI-Assisted Decision Making**: Benefit from AI-driven insights and recommendations to enhance decision-making processes and identify actionable opportunities.
